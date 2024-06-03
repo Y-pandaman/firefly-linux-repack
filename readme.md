@@ -58,7 +58,7 @@
 
 - 解包完成后，`output/Image`目录下会生成以下文件：
 
-  ![image-20240319141421612](https://raw.githubusercontent.com/Y-pandaman/typora-source/master/202403191414920.png)
+  ![image-20240319141421612](https://raw.githubusercontent.com/Y-pandaman/typora-source/master/2024/202403191414920.png)
 
 6. 将步骤3生成的`rootfs.img`替换掉`output/Image/rootfs.img`，然后执行打包程序`./pack.sh`。
 
